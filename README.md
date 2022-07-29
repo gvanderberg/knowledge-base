@@ -6,9 +6,9 @@
 
 ## Dev Tools
 
-* [Code coverage](/code-coverage/README.md)
+* [code coverage](/code-coverage/README.md)
 * [dotnet](/dotnet/README.md)
-* [Serilog](/serilog/README.md)
+* [serilog](/serilog/README.md)
 ---
 * [JSON Web Tokens](https://jwt.io/)
 * [Webhook.site](https://webhook.site/)
